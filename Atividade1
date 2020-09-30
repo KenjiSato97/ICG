@@ -1,0 +1,8 @@
+Para a realizacao deste trabalho, o aluno devera, inicialmente, fazer download do programa OpenGL
+disponıvel no repositorio da disciplina:
+https://github.com/capagot/icg/tree/master/01_hello_world_gl/modern_opengl
+Apos o download, o aluno devera compilar e executar este programa. Durante a compilacao alguns warnings poderao aparecer na tela. 
+Uma vez compilado, ao ser executado, o programa devera
+apresentar uma janela contendo um triangulo colorido, como ilustra a Figura 1:
+O trabalho sera considerado realizado no momento em que o aluno conseguir compilar e executar,
+com sucesso, o programa.
