@@ -15,7 +15,7 @@ Para este trabalho utilizaremos o framework *__Mygl__* fornecido pelo Prof. Chri
 
 Repositório da framework: <https://github.com/capagot/icg/tree/master/02_mygl_framework>
 
-# Desenvolvimento
+## Desenvolvimento
 
 Primeiramente, criaremos uma estrutura responsável por guardar os elementos do pixel (posição e cor), como será mostrado a seguir:
 
@@ -63,7 +63,7 @@ Neste caso, o algoritmo será eficaz apenas para o primeiro octante, para soluci
 
 ![](https://github.com/KenjiSato97/ICG/blob/master/trab2/octantes.png)
 
-Assim temos a seguinte implementação:
+Logo, temos a seguinte implementação:
 
 ~~~C
 void drawLine(pixel P1, pixel P2){
@@ -89,8 +89,6 @@ void drawLine(pixel P1, pixel P2){
         prox_y = -1;
     }
 ~~~
-
-Para ver o código completo, acesse o arquivo __mygl.c__
 
 Após compilar, obtemos o seguinte resultado:
 
@@ -150,8 +148,11 @@ Logo, temos:
 ...
 ~~~
 
+
+
 Como a distância parcial varia, então, o cálculo da taxa irá variar também e como a taxa, dentro da fórmula, determina a próxima cor, esta também sofrerá variação se aproximando cada vez mais da tonalidade da cor final.
 
+Para ver o código completo, acesse o arquivo __mygl.c__
 
 ## Consideraçẽos finais
 
