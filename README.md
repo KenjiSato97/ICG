@@ -16,3 +16,8 @@ Repositório para abrigar as atividades desenvolvidas na disciplina de Introduç
 ## Provas
 
 ## Trabalhos
+
+## Alunos
+
+Kenji Sato
+Matheus Henrique Raposo Dantas
