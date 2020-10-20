@@ -19,5 +19,5 @@ Repositório para abrigar as atividades desenvolvidas na disciplina de Introduç
 
 ## Alunos
 
-Kenji Sato
-Matheus Henrique Raposo Dantas
+* Kenji Sato
+* Matheus Henrique Raposo Dantas
