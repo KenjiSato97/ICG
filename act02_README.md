@@ -43,7 +43,7 @@ Então, temos abaixo a implementação desta função:
 
 Após compilar o código, obteremos o seguinte resultado:
 
---imagem--
+![](https://github.com/KenjiSato97/ICG/blob/master/putpixel_print.jpeg)
 
 ## DrawLine
 
